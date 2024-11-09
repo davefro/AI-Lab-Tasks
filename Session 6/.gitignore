@@ -1,0 +1,11 @@
+# Ignore the Kaggle zip file
+kagglecatsanddogs_5340.zip
+
+# Ignore the images jpg
+*.jpg
+
+# Ignore any other zip files in the folder
+*.zip
+
+# Ignore the entire PetImages folder and its contents
+PetImages/
